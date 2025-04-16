@@ -1,27 +1,27 @@
-[16Apr2025 00:43:21.094] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
-[16Apr2025 00:43:21.098] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
-[16Apr2025 00:43:21.468] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
-[16Apr2025 00:43:21.520] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LASBESTIAS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
-[16Apr2025 00:43:21.815] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
-[16Apr2025 00:43:21.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Apr2025 00:43:21.819] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Apr2025 00:43:21.820] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
-[16Apr2025 00:43:22.100] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
-[16Apr2025 00:43:22.102] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
-[16Apr2025 00:43:24.668] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[16Apr2025 00:43:24.742] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
-[16Apr2025 00:43:24.746] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
-[16Apr2025 00:43:24.805] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
-[16Apr2025 00:43:24.807] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[16Apr2025 00:43:26.462] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
-[16Apr2025 00:43:26.659] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
-[16Apr2025 00:43:30.770] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zcl000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
-[16Apr2025 00:43:32.511] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
-[16Apr2025 00:43:32.511] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: WATERMeDIA is not designed to work on server-side, please remove it from server and keep it on client
-[16Apr2025 00:43:32.511] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: Dependent mods can work without WATERMeDIA ON SERVERS, remember keep the mod ONLY ON CLIENT-SIDE
-[16Apr2025 00:43:32.511] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: if dependent mods throws exceptions ON SERVER asking for WATERMeDIA, report it to the creators
-[16Apr2025 00:43:32.511] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
-[16Apr2025 00:43:32.514] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: watermedia, class org.watermedia.loaders.ForgeLoader
+[16Apr2025 00:43:57.797] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 47.3.7, --fml.mcVersion, 1.20.1, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20230612.114412, nogui]
+[16Apr2025 00:43:57.801] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.9+10.0.9+main.dcd20f30 starting: java version 17.0.14 by Ubuntu; OS Linux arch amd64 version 6.8.0-1021-azure
+[16Apr2025 00:43:58.179] [main/INFO] [net.minecraftforge.fml.loading.ImmediateWindowHandler/]: ImmediateWindowProvider not loading because launch target is forgeserver
+[16Apr2025 00:43:58.222] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/LASBESTIAS/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2365!/ Service=ModLauncher Env=SERVER
+[16Apr2025 00:43:58.437] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.20.1-47.3.7/fmlcore-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 00:43:58.439] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.20.1-47.3.7/javafmllanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 00:43:58.440] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.20.1-47.3.7/lowcodelanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 00:43:58.441] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/LASBESTIAS/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.20.1-47.3.7/mclanguage-1.20.1-47.3.7.jar is missing mods.toml file
+[16Apr2025 00:43:58.703] [main/WARN] [net.minecraftforge.jarjar.selection.JarSelector/]: Attempted to select two dependency jars from JarJar which have the same identification: Mod File:  and Mod File: . Using Mod File: 
+[16Apr2025 00:43:58.704] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 10 dependencies adding them to mods collection
+[16Apr2025 00:44:01.318] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[16Apr2025 00:44:01.387] [main/ERROR] [mixin/]: Mixin config azurelib.mixins.json does not specify "minVersion" property
+[16Apr2025 00:44:01.388] [main/ERROR] [mixin/]: Mixin config azurelib.forge.mixins.json does not specify "minVersion" property
+[16Apr2025 00:44:01.440] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [de.maxhenkel.camera.MixinConnector]
+[16Apr2025 00:44:01.442] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[16Apr2025 00:44:03.108] [main/WARN] [mixin/]: Error loading class: vectorwing/farmersdelight/common/block/TomatoVineBlock (java.lang.ClassNotFoundException: vectorwing.farmersdelight.common.block.TomatoVineBlock)
+[16Apr2025 00:44:03.249] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.6).
+[16Apr2025 00:44:07.388] [main/WARN] [mixin/]: @Inject(@At("INVOKE")) Shift.BY=2 on witherstormmod.mixins.json:MixinSwellGoal::handler$zcl000$canUseInvoke exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[16Apr2025 00:44:09.058] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
+[16Apr2025 00:44:09.058] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: WATERMeDIA is not designed to work on server-side, please remove it from server and keep it on client
+[16Apr2025 00:44:09.058] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: Dependent mods can work without WATERMeDIA ON SERVERS, remember keep the mod ONLY ON CLIENT-SIDE
+[16Apr2025 00:44:09.058] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: if dependent mods throws exceptions ON SERVER asking for WATERMeDIA, report it to the creators
+[16Apr2025 00:44:09.058] [modloading-worker-0/FATAL] [watermedia/Bootstrap]: ##############################  ILLEGAL ENVIRONMENT  ######################################
+[16Apr2025 00:44:09.058] [modloading-worker-0/ERROR] [net.minecraftforge.fml.javafmlmod.FMLModContainer/LOADING]: Failed to create mod instance. ModID: watermedia, class org.watermedia.loaders.ForgeLoader
 java.lang.RuntimeException: Failed starting WATERMeDIA for Forge: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client
 	at org.watermedia.loaders.ForgeLoader.<init>(ForgeLoader.java:53) ~[watermedia-2.1.23.jar%23144!/:2.1.23]
 	at jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method) ~[?:?]
@@ -41,14 +41,14 @@ java.lang.RuntimeException: Failed starting WATERMeDIA for Forge: WATERMeDIA CAN
 Caused by: org.watermedia.core.exceptions.IllegalEnvironmentException: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client
 	at org.watermedia.loaders.ForgeLoader.<init>(ForgeLoader.java:51) ~[watermedia-2.1.23.jar%23144!/:2.1.23]
 	... 14 more
-[16Apr2025 00:43:33.182] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
-[16Apr2025 00:43:33.204] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
-[16Apr2025 00:43:33.205] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
-[16Apr2025 00:43:34.654] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
-[16Apr2025 00:43:34.725] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 78313459-c827-42a0-a0a4-82f0d5fdc2b8
-[16Apr2025 00:43:34.726] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-04-16_00.43.34-fml.txt
-[16Apr2025 00:43:34.732] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 212e175e-b902-4d16-87c6-1c7ab73f263e
-[16Apr2025 00:43:34.733] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
+[16Apr2025 00:44:09.751] [modloading-worker-0/INFO] [azurelib/FileWatching]: Registered azurelib config for auto-sync function
+[16Apr2025 00:44:09.790] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 47.3.7, for MC 1.20.1 with MCP 20230612.114412
+[16Apr2025 00:44:09.791] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v47.3.7 Initialized
+[16Apr2025 00:44:11.128] [main/FATAL] [net.minecraftforge.fml.ModLoader/LOADING]: Failed to complete lifecycle event CONSTRUCT, 1 errors found
+[16Apr2025 00:44:11.203] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 2ff9d53f-c7a5-4110-ab62-98ce0aa22d1e
+[16Apr2025 00:44:11.204] [main/FATAL] [net.minecraftforge.server.loading.ServerModLoader/]: Crash report saved to ./crash-reports/crash-2025-04-16_00.44.11-fml.txt
+[16Apr2025 00:44:11.209] [main/FATAL] [net.minecraftforge.common.ForgeMod/]: Preparing crash report with UUID 82f6d1ae-23a8-477b-be8d-8b5fc9dab1c9
+[16Apr2025 00:44:11.209] [main/ERROR] [net.minecraft.server.Main/FATAL]: Failed to start the minecraft server
 net.minecraftforge.fml.LoadingFailedException: Loading errors encountered: [
 	WaterMedia (watermedia) has failed to load correctly
 §7java.lang.RuntimeException: Failed starting WATERMeDIA for Forge: WATERMeDIA CANNOT be installed YET on SERVER-SIDE. Please remove WATERMeDIA from the server, and keep it on client
