@@ -296,3 +296,8 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [17Apr2025 00:16:45.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by Phayres
 [17Apr2025 00:23:50.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Take Aim]
 [17Apr2025 00:33:00.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LOC0: Teleported LOC0 to -1303.500000, 123.500000, -912.500000]
+[17Apr2025 00:34:43.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [LOC0: Teleported LOC0 to -1257.500000, 128.500000, -941.500000]
+[17Apr2025 00:35:24.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Isn't It Iron Pick]
+[17Apr2025 00:35:26.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Suit Up]
+[17Apr2025 00:37:02.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LOC0 lost connection: Disconnected
+[17Apr2025 00:37:02.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 left the game
