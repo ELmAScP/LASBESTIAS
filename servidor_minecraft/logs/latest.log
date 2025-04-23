@@ -605,3 +605,13 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [23Apr2025 13:41:01.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk left the game
 [23Apr2025 13:41:15.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by DogBeast
 [23Apr2025 13:41:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by DogBeast
+[23Apr2025 13:46:16.341] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: lukk[/127.142.241.135:54647] logged in with entity id 19052 at (-10.29838011173737, 64.375, 11.057468224880093)
+[23Apr2025 13:46:16.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk joined the game
+[23Apr2025 13:46:16.390] [Server thread/INFO] [Jade/]: Syncing config to lukk (3a2b0bdb-2096-30d6-8955-a9eeae749bd0)
+[23Apr2025 13:46:35.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by lukk
+[23Apr2025 13:47:00.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-4, y=63, z=15} BlockPos{x=-4, y=63, z=14}
+[23Apr2025 13:47:12.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by lukk
+[23Apr2025 13:47:27.368] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukk lost connection: Disconnected
+[23Apr2025 13:47:27.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk left the game
+[23Apr2025 13:47:32.661] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: LOC0 lost connection: Disconnected
+[23Apr2025 13:47:32.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 left the game
