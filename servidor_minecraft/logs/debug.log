@@ -2755,3 +2755,45 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'create:
 [23Apr2025 13:32:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk has made the advancement [Meet the team]
 [23Apr2025 13:32:09.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk has made the advancement [Atlantis must be real]
 [23Apr2025 13:32:10.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk was eaten alive by Infected Drowned
+[23Apr2025 13:32:11.967] [Server thread/DEBUG] [twilightforest/]: Player lukk (3a2b0bdb-2096-30d6-8955-a9eeae749bd0) respawned and received items held in storage
+[23Apr2025 13:32:13.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Meet the team]
+[23Apr2025 13:32:13.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Atlantis must be real]
+[23Apr2025 13:33:08.733] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-3, y=72, z=57}
+[23Apr2025 13:33:09.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-2, y=72, z=57}
+[23Apr2025 13:33:09.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-3, y=72, z=58}
+[23Apr2025 13:33:09.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-4, y=72, z=58}
+[23Apr2025 13:33:09.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-5, y=72, z=57}
+[23Apr2025 13:33:10.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-6, y=72, z=56}
+[23Apr2025 13:33:10.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-4, y=73, z=59}
+[23Apr2025 13:33:10.769] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-4, y=73, z=59}
+[23Apr2025 13:33:11.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk has made the advancement [To Resist Us Is Futile]
+[23Apr2025 13:33:11.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-7, y=73, z=59}
+[23Apr2025 13:33:11.573] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-7, y=73, z=60}
+[23Apr2025 13:33:11.623] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-7, y=73, z=60}
+[23Apr2025 13:33:11.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-7, y=73, z=60}
+[23Apr2025 13:33:12.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-7, y=73, z=60}
+[23Apr2025 13:33:13.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1, y=73, z=57} BlockPos{x=-6, y=73, z=62}
+[23Apr2025 13:33:15.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk was assimilated while trying to escape DogBeast Spitter
+[23Apr2025 13:33:16.613] [Server thread/DEBUG] [twilightforest/]: Player lukk (3a2b0bdb-2096-30d6-8955-a9eeae749bd0) respawned and received items held in storage
+[23Apr2025 13:33:17.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by DogBeast Spitter
+[23Apr2025 13:33:18.339] [Server thread/DEBUG] [twilightforest/]: Player LOC0 (da4afd5e-32d8-3112-9315-6ede438e55dc) respawned and received items held in storage
+[23Apr2025 13:33:20.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-10, y=73, z=58}
+[23Apr2025 13:33:43.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by lukk
+[23Apr2025 13:33:44.705] [Server thread/DEBUG] [twilightforest/]: Player LOC0 (da4afd5e-32d8-3112-9315-6ede438e55dc) respawned and received items held in storage
+[23Apr2025 13:34:01.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 13:34:01.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 13:34:36.069] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-207, y=67, z=25} BlockPos{x=-208, y=67, z=25}
+[23Apr2025 13:35:24.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk hit the ground too hard
+[23Apr2025 13:35:26.277] [Server thread/DEBUG] [twilightforest/]: Player lukk (3a2b0bdb-2096-30d6-8955-a9eeae749bd0) respawned and received items held in storage
+[23Apr2025 13:37:17.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk has made the advancement [Spooky Scary Skeleton]
+[23Apr2025 13:38:26.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Monster Hunter]
+[23Apr2025 13:39:01.549] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 13:39:01.558] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 13:39:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 has made the advancement [Getting an Upgrade]
+[23Apr2025 13:39:41.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk has made the advancement [Getting an Upgrade]
+[23Apr2025 13:41:01.767] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: lukk lost connection: Disconnected
+[23Apr2025 13:41:01.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: lukk left the game
+[23Apr2025 13:41:15.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by DogBeast
+[23Apr2025 13:41:19.090] [Server thread/DEBUG] [twilightforest/]: Player LOC0 (da4afd5e-32d8-3112-9315-6ede438e55dc) respawned and received items held in storage
+[23Apr2025 13:41:29.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: LOC0 was slain by DogBeast
+[23Apr2025 13:41:31.273] [Server thread/DEBUG] [twilightforest/]: Player LOC0 (da4afd5e-32d8-3112-9315-6ede438e55dc) respawned and received items held in storage
