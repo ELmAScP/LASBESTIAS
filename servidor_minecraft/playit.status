@@ -1,82 +1,3538 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745539203358 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1745539265476 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539206435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539268565 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539209518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539271663 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539212619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539274730 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539215933 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539277798 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539219003 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539280872 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539222100 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539283933 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539225235 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539287003 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539228340 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539290074 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539231436 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539293232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539234516 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539296304 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539237619 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539299377 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539240733 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539302494 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.26): 1745539243826 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1745539305583 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539308651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539311716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539314782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539317863 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539320953 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539324181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539327338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539330435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539333502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539336566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539339629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539342697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539345765 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539348843 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539351897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539354974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539358042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539361101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539364171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539367263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539370464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539373707 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539376794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539379891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539382963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539386048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539389112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539392187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539395247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539398314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539401374 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539404451 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539407517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539410597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539413681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539416755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539419818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539422979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539426053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539429123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539432192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539435298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539438559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539441629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539444700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539447778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539450928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539454054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539457838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539460909 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539463994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539467063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539470131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539473210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539476298 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539479504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539482579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539485655 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539488725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539491816 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539494946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539498001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539501075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539504152 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539507227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539510313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539513378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539516493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539519560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539522647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539525786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539528860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539531932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539534995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539538079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539541164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539544265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539547499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539550623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539553705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539558470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539561536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539564606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539567666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539570730 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539573791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539577753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539580895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539584045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539587118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539590196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539593269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539596328 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539599467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539602544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539605694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539608755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539611815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539614912 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539617978 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539621048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539624770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539627841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539630948 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539634947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539639199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539642797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539645864 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539648931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539652000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539655092 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539658158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539661319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539664429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539667517 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539670600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539673678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539676753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539679842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539682931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539686010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539689080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539692169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539695558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539698652 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539702411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539705479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539708560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539711650 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539714723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539717793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539720907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539724616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539727697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539730771 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539733991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539737087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539740179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539743391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539746502 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539749572 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539752675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539755775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539758837 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539761911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539764990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539768064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539771130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539774235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539777301 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539780365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539783564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539786673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539789795 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539792879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539795972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539799345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539802411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539805597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539808670 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539811804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539814875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539817958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539821039 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539824114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539827232 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539830310 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539833428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539836495 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539839576 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539842659 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539845723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539848852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539851931 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539855164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539858250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539861326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539864405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539867497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539870725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539873869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539876932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539880138 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539883307 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539886399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539889481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539892550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539895643 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539898704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539901787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539904847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539908020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539911100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539914175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539917250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539920312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539923383 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539926465 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539929552 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539932619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539935701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539938846 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539941925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539944995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539948102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539951175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539954255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539957321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539960382 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539963573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539966648 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539969716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539972812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539975880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539979020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539982088 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539985155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539988270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539991338 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539994477 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745539997550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540000606 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540003688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540006880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540009940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540013021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540016114 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540019179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540022247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540025331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540028480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540031551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540034613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540037680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540040758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540043955 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540047026 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540050119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540053238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540056299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540059443 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540062560 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540065716 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540068794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540071972 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540075044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540078144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540081207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540084320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540087391 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540090720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540093788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540096850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540099920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540102992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540106073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540109204 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540112269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540115334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540118419 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540121489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540124555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540127654 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540130715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540134481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540137553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540140619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540143672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540146767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540149869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540153104 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540156489 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540159645 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540162758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540165856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540168926 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540171986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540175044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540178137 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540181202 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540184276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540187468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540190536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540193599 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540196657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540199719 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540202879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540205951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540209046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540212112 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540215215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540219239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540222313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540225457 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540228529 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540231608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540234697 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540238019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540241263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540244388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540247519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540250598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540253705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540256827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540259895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540262973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540266051 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540269136 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540272217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540275290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540278548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540281683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540284760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540287839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540290920 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540294017 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540297097 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540300156 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540303233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540306300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540309379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540312446 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540315508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540318579 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540321651 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540324762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540327831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540330900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540333986 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540337053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540340117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540343183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540346262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540349486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540352686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540355817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540358908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540361969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540365042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540368101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540371177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540374265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540377367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540380442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540384286 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540388820 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540391904 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540394977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540398042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540401120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540404209 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540407302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540410493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540413759 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540417072 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540420139 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540423237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540426314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540429399 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540432473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540435563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540438883 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540442006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540445083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540448178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540451942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540455627 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540458758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540461818 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540464890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540467965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540471019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540474091 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540477160 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540480236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540483325 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540486492 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540489625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540492717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540495785 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540498893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540501966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540505031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540508109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540511208 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540514458 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540517540 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540520621 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540523705 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540527059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540530135 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540533456 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540536526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540539617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540542715 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540545788 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540548854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540551924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540554999 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540558095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540561175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540564433 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540567514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540570618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540573700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540576830 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540579924 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540583101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540586309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540589483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540592555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540595647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540598732 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540601817 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540604884 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540607989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540611060 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540614132 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540617398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540620518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540623589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540626658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540629728 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540633187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540636254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540639334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540642411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540645515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540648584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540651661 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540654777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540657936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540661093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540664161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540667246 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540670319 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540673462 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540676530 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540679598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540683706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540686780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540689848 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540693175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540696253 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540699331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540702410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540705503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540708688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540711766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540714850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540718464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540721767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540724849 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540727942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540731018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540734085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540737231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540740317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540743420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540747379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540750442 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540753507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540756580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540759679 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540762793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540765889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540769587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540772763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540775869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540778952 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540782043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540785173 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540788266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540791343 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540794464 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540797544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540800680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540803782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540806852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540809937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540813020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540816093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540819242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540822334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540825398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540828487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540831567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540834628 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540837692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540840763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540843945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540847041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540850493 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540853569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540856687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540859786 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540862928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540866008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540869080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540872147 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540875217 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540878299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540881366 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540884449 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540887515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540890569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540893646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540896769 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540899842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540903005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540906065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540909134 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540912221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540915294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540918378 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540921512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540924619 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540927806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540930875 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540934100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540937212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540940545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540943664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540946760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540950435 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540953548 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540956709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540959805 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540962990 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540966196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540969276 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540972375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540975450 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540978646 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540982657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540985747 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540988938 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540992010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540995089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745540998185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541001257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541004339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541007410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541011597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541014790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541017882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541020966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541024040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541027171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541030257 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541033563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541037267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541040324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541043388 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541046473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541049556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541052773 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541056050 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541059200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541062291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541065390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541068550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541071624 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541074695 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541077772 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541080974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541084105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541087313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541090508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541094190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541097270 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541100335 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541103417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541106509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541109607 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+itself-accreditation.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+things-cincinnati.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+[2J8[0mplayit (v0.15.26): 1745541114013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
